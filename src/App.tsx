@@ -280,7 +280,7 @@ export default function App() {
           <Menu className="w-6 h-6 text-[var(--color-neon-cyan)] cursor-pointer hover:scale-110 transition-transform" />
           <Terminal className="w-5 h-5 text-[var(--color-neon-pink)] animate-pulse" />
           <div className="flex flex-col">
-            <h1 className="chrome-text font-bold text-lg tracking-widest leading-none">TENSOR_TANTRUM</h1>
+            <h1 className="chrome-text font-bold text-lg tracking-widest leading-none">EROWID_ART</h1>
             <div className="flex items-center gap-1">
               <span className="text-[10px] text-[var(--color-neon-green)] font-mono animate-jitter">SESSION: GHOST_v3.0_KERN</span>
               <span className="text-[8px] text-[var(--color-neon-cyan)] opacity-50 font-mono">| REPO: CONNECTED</span>
